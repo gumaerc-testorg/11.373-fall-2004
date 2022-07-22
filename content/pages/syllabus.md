@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, requirements, evaluation, and notes on formatting essays for the
+  course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e19339c4-1aa4-e6a1-9243-a49b9a9c3a8b
 ---
